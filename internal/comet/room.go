@@ -3,8 +3,8 @@ package comet
 import (
 	"sync"
 
-	"github.com/Terry-Mao/goim/api/protocol"
-	"github.com/Terry-Mao/goim/internal/comet/errors"
+	"github.com/congta/goim/api/protocol"
+	"github.com/congta/goim/internal/comet/errors"
 )
 
 // Room is a room and store channel room info.

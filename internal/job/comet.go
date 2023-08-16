@@ -7,8 +7,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Terry-Mao/goim/api/comet"
-	"github.com/Terry-Mao/goim/internal/job/conf"
+	"github.com/congta/goim/api/comet"
+	"github.com/congta/goim/internal/job/conf"
 	"github.com/bilibili/discovery/naming"
 
 	log "github.com/golang/glog"

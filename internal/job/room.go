@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/Terry-Mao/goim/api/protocol"
-	"github.com/Terry-Mao/goim/internal/job/conf"
-	"github.com/Terry-Mao/goim/pkg/bytes"
+	"github.com/congta/goim/api/protocol"
+	"github.com/congta/goim/internal/job/conf"
+	"github.com/congta/goim/pkg/bytes"
 	log "github.com/golang/glog"
 )
 

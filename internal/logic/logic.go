@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Terry-Mao/goim/internal/logic/conf"
-	"github.com/Terry-Mao/goim/internal/logic/dao"
-	"github.com/Terry-Mao/goim/internal/logic/model"
+	"github.com/congta/goim/internal/logic/conf"
+	"github.com/congta/goim/internal/logic/dao"
+	"github.com/congta/goim/internal/logic/model"
 	"github.com/bilibili/discovery/naming"
 	log "github.com/golang/glog"
 )

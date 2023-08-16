@@ -1,8 +1,8 @@
 package http
 
 import (
-	"github.com/Terry-Mao/goim/internal/logic"
-	"github.com/Terry-Mao/goim/internal/logic/conf"
+	"github.com/congta/goim/internal/logic"
+	"github.com/congta/goim/internal/logic/conf"
 
 	"github.com/gin-gonic/gin"
 )

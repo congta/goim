@@ -5,10 +5,10 @@ import (
 	"net"
 	"time"
 
-	pb "github.com/Terry-Mao/goim/api/comet"
-	"github.com/Terry-Mao/goim/internal/comet"
-	"github.com/Terry-Mao/goim/internal/comet/conf"
-	"github.com/Terry-Mao/goim/internal/comet/errors"
+	pb "github.com/congta/goim/api/comet"
+	"github.com/congta/goim/internal/comet"
+	"github.com/congta/goim/internal/comet/conf"
+	"github.com/congta/goim/internal/comet/errors"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"

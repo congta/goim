@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Terry-Mao/goim/api/protocol"
-	"github.com/Terry-Mao/goim/internal/comet/conf"
-	"github.com/Terry-Mao/goim/pkg/bytes"
-	xtime "github.com/Terry-Mao/goim/pkg/time"
-	"github.com/Terry-Mao/goim/pkg/websocket"
+	"github.com/congta/goim/api/protocol"
+	"github.com/congta/goim/internal/comet/conf"
+	"github.com/congta/goim/pkg/bytes"
+	xtime "github.com/congta/goim/pkg/time"
+	"github.com/congta/goim/pkg/websocket"
 	log "github.com/golang/glog"
 )
 

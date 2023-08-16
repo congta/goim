@@ -1,4 +1,4 @@
-module github.com/Terry-Mao/goim
+module github.com/congta/goim
 
 go 1.13
 
